@@ -1,1 +1,1 @@
-# React-Mini-Projects
+# React-Practice-Repo
