@@ -21,7 +21,7 @@ function Heading() {
     headingstyle.color = "green";
   }
 
-  return <h1 style={headingstyle}>{greeting}</h1>;
+  return <h1 className="heading" style={headingstyle}>{greeting}</h1>;
 }
 
 export default Heading;
